@@ -62,3 +62,74 @@ git remote -v
 ssh -T metvi67
 ssh -T mksm.matevienko@gmail.com
 reset
+git remote set-url origin git@github.com: metvi67
+git remote add origin https://github.com/metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+ssh-add ~/.ssh/id_rsa
+git push -u origin main
+git remote add origin git@github.com:metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+ssh -vT git@github.com
+git remote add origin git@github.com:metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+git status
+git add .ssh/
+git status
+git commit -m "ssh добавляю"
+git status
+git add .bash_history .bashrc
+git status
+git commit -m "bash"
+git add .gitconfig .motd_shown .profile  hexlet-git/
+git status
+git commit -m "все добавил"
+git status
+git pwd
+pwd
+cd hexlet-js.git
+git cd hexlet-js.git
+git checkout hexlet-js.git
+echo "# hexlet-js" >> README.md
+git init
+git add README.md
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:metvi67/hexlet-js.git
+git push -u origin main
+git remote add origin https://github.com/metvi67/hexlet-js.git
+git push -u origin main
+ping github.com
+sudo nano /etc/resolv.conf
+ssh -T git@github.com
+ping 8.8.8.8
+sudo nano /etc/resolv.conf
+ping github.com
+ssh -T git@github.com
+git push -u origin main
+git remote -v
+git remote set-url origin git@github.com:metvi67/hexlet-js.git
+git remote -v
+git push -u origin main
+git remote add origin https://github.com/metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:metvi67/hexlet-js.git
+git branch -M main
+git push -u origin main
+ssh-add -l
+git remote add origin https://github.com/metvi-77/hexlet-js.git
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/metvi-77/hexlet-js.git
+git remote add origin https://github.com/metvi-77/hexlet-js.git
+git push -u origin main
