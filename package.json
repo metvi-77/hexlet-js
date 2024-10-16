@@ -1,0 +1,12 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "JS project for Hexlet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+     "start": "node index.js"
+  },
+  "author": "Max",
+  "license": "ISC"
+}
